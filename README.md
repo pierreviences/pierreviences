@@ -1,84 +1,42 @@
-<h1 align="center">Hi 👋, I'm Pier</h1>
+<h1 align="center">
+  <img src="GIF/Earth.gif" width="24px">
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  <img src="GIF/Hi.gif" width="40px" />
+</h1>
 
-### About Me
-- 👋🏻 Hi, I’m Pierre Viences
-- 👀 I’m interested in Web Development and Mobile App Development.
-- 🌱 I’m currently learning Kotlin & TypeScript
-- 💞️ I’m looking to collaborate on Open Source Mini Project
-- 📫 You can contact me with email, Twitter, Instagram, and Linkedin
-- 🙇🏻‍♀️ Nice to meet you everyone
-
-### Skills 
-<p>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> 
-  </a>
-  <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3" width="40" height="40" /> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> 
-    </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-      alt="javascript" width="40" height="40" /> 
-    </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> 
-    </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-        alt="bootstrap" width="40" height="40" />
-    </a>
-  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"
-      height="40" alt="tailwind" />
-    </a>
-  <a href="https://laravel.com" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"
-      alt="laravel" />
-    </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
-      width="40" height="40" /> 
-    </a>
-  <a href="https://reactjs.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs"
-      width="40" height="40" /> 
-    </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs"
-      width="40" height="40" /> 
-    </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> 
-    </a>
-  <a href="https://nextjs.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="python"
-      width="40" height="40" /> 
-    </a>
-</p>
+<br/>
+<br/>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pierreviences&show_icons=true&locale=en&layout=compact" alt="wass08" /></p>
+<a href="https://twitter.com/pierreviences">
+  <img align="left" alt="Pier Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pierreviences&show_icons=true&locale=en" alt="pierreviences" /></p>
+<a href="https://github.com/pierreviences">
+  <img align="left" alt="Pier Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.instagram.com/azid.im">
+  <img align="left" alt="Pier Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pierreviences&" alt="wass08" /></p>
-<!--
-**pierreviences/pierreviences** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://t.me/pierreviences">
+  <img align="left" alt="Pier Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://medium.com/@pierreviences">
+  <img align="left" alt="Pier Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br />
+<img align="right" alt="GIF" src="https://github.com/pierreviences/pierreviences/blob/master/GIF/rick.gif" />
+
+
+### I am Pierre Viences
+- Interested in Web Development and Mobile App Development.
+- A Computer Engineering Undergraduate Student.
+- Currently learning Kotlin & TypeScript
+- Looking to collaborate on Open Source Mini Project
+- You can contact me with email, Twitter, Instagram, and Linkedin
+- Nice to meet you everyone
+
+⭐️ From [Pierre Viences](https://github.com/pierreviences)
