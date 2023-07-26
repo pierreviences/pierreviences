@@ -28,12 +28,12 @@
 
 
 <br />
-<img align="right" alt="GIF" src="https://github.com/pierreviences/pierreviences/blob/master/GIF/rick.gif" />
+<img align="right" alt="GIF" src="https://github.com/pierreviences/pierreviences/blob/main/GIF/rick.gif" />
 
 
 ### I am Pierre Viences
 - Interested in Web Development and Mobile App Development.
-- A Computer Engineering Undergraduate Student.
+- A Software Engineering Undergraduate Student.
 - Currently learning Kotlin & TypeScript
 - Looking to collaborate on Open Source Mini Project
 - You can contact me with email, Twitter, Instagram, and Linkedin
