@@ -36,7 +36,7 @@
 - A Software Engineering Undergraduate Student.
 - Currently learning Kotlin & TypeScript
 - Looking to collaborate on Open Source Mini Project
-- You can contact me with email, Twitter, Instagram, and Linkedin
+- You can contact me with Email, Twitter, Instagram, and Linkedin
 - Nice to meet you everyone
 
 ⭐️ From [Pierre Viences](https://github.com/pierreviences)
