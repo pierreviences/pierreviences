@@ -21,7 +21,7 @@
 <a href="https://t.me/pierreviences">
   <img align="left" alt="Pier Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://medium.com/@pierreviences">
+<a href="https://medium.com/@azidim">
   <img align="left" alt="Pier Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
